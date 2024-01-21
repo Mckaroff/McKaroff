@@ -20,9 +20,9 @@ theme:
       scheme: slate
       primary: black
       accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+      #toggle:
+        #icon: material/toggle-switch
+        #name: Switch to light mode
 
 
 # Extensions
