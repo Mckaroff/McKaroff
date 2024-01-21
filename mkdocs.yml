@@ -3,8 +3,8 @@ site_name: Dmirty Mackaroff
 theme:
     name: 'material'
     palette:
-    logo: /favicon.png
-    favicon: /favicon.png
+    logo: media/favicon.png
+    favicon: media/favicon.png
     
     # Light mode
     - media: "(prefers-color-scheme: light)"
