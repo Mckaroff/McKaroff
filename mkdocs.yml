@@ -29,6 +29,10 @@ extra:
   social:
     - icon: fontawesome/brands/telegram
       link: https://t.me/Mackaroff
+    - icon: fontawesome/brands/facebook
+      link: https://t.me/Mackaroff
+    - icon: fontawesome/brands/linkedin
+      link: https://t.me/Mackaroff
 
 # Extensions
 markdown_extensions:
