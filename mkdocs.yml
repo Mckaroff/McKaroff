@@ -23,6 +23,8 @@ theme:
         name: Switch to light mode
 
 favicon: favicon.png
+ icon:
+    logo: logo
 
 # Extensions
 markdown_extensions:
