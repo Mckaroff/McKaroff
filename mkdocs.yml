@@ -3,7 +3,9 @@ site_name: Dmirty Mackaroff
 theme:
     name: 'material'
     palette:
-
+    logo: /favicon.png
+    favicon: /favicon.png
+    
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -21,8 +23,6 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-
-favicon: /favicon.png
 
 
 # Extensions
