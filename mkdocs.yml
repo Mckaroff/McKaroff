@@ -30,9 +30,9 @@ extra:
     - icon: fontawesome/brands/telegram
       link: https://t.me/Mackaroff
     - icon: fontawesome/brands/facebook
-      link: https://t.me/Mackaroff
+      link: https://www.facebook.com/profile.php?id=100058073734932
     - icon: fontawesome/brands/linkedin
-      link: https://t.me/Mackaroff
+      link: https://www.linkedin.com/in/dmitry-makarov-826176134?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxGKF6kUpRRu1Ljbi0JZlWQ%3D%3D
 
 # Extensions
 markdown_extensions:
@@ -61,8 +61,8 @@ markdown_extensions:
       permalink: true
 
 plugins:
-  # - search
   - roamlinks
+    # - search
   # - blog
   - rss:
       match_path: blog/posts/.* 
