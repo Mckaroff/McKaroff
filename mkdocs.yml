@@ -25,6 +25,11 @@ theme:
     logo: media/favicon.png
     favicon: media/favicon.png
 
+extra:
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/Mackaroff
+
 # Extensions
 markdown_extensions:
   - footnotes
