@@ -34,7 +34,10 @@ extra:
           link: https://www.facebook.com/profile.php?id=100058073734932
         - icon: fontawesome/brands/linkedin
           link: https://www.linkedin.com/in/dmitry-makarov-826176134?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxGKF6kUpRRu1Ljbi0JZlWQ%3D%3D
+    writing:
         - icon: fontawesome/writing/envelope                 #media/envelope-solid.svg
+          link: https://mailto:mackaroff@mackaroff.com
+        - icon: fontawesome/icons/envelope                 #media/envelope-solid.svg
           link: https://mailto:mackaroff@mackaroff.com
 # Extensions
 markdown_extensions:
