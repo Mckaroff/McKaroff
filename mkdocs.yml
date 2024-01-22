@@ -37,8 +37,8 @@ extra:
     writing:
         - icon: fontawesome/writing/envelope                 #media/envelope-solid.svg
           link: https://mailto:mackaroff@mackaroff.com
-        - icon: fontawesome/icons/envelope                 #media/envelope-solid.svg
-          link: https://mailto:mackaroff@mackaroff.com
+        - icon: fontawesome/solid/envelope                 #media/envelope-solid.svg
+          link: mailto:mackaroff@mackaroff.com
 # Extensions
 markdown_extensions:
   - footnotes
