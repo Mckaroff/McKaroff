@@ -1,5 +1,5 @@
 ![[_GIT/Mckaroff/docs/media/Для CV/CV DM ph.png|200]]
-![CV DM ph](_GIT/Mckaroff/docs/media/Для%20CV/CV%20DM%20ph.png) 
+![CV DM ph](../media/Для%20CV/CV%20DM%20ph.png)
 # Дмитрий Макаров
 
 * Директор по маркетингу (CMO)  
