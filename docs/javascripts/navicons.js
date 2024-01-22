@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Список пунктов навигации и соответствующих им иконок
     var navItems = [
         { title: "Home", iconClass: "fas fa-home" },
-        { title: "About", iconClass: "fas fa-info-circle" },
+        { title: "Features", iconClass: "fas fa-info-circle" },
         { title: "Contact", iconClass: "fas fa-envelope" },
         // Добавьте дополнительные пункты здесь
     ];
