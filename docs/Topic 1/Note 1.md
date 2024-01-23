@@ -5,65 +5,37 @@ Example: link to [[Mermaid Diagrams]] under `Features`
 [[Note 1]]
 # 1
 
-!!! note
+<div class="grid cards" markdown>
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+-   :material-clock-fast:{ .lg .middle } __О компании__
 
-# 2
-!!! note ""
+    ---
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    IMISP - один из лидеров российского бизнес-образования, занимает первую строчку рейтинга бизнес-школ России. Компания - обладатель британской аккредитация AMBA. Основные продукты: Executive MBA и MBA, а также кастомизированные корпоративные программы обучения. Аудитория продуктов: топ-менеджеры и собственники частных компаний.
 
-#3
+-   :fontawesome-brands-markdown:{ .lg .middle } __Задачи__
 
-:   !!! danger
+    ---
 
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-        purus auctor massa, nec semper lorem quam in massa.
+    Полная реорганизация отдела маркетинга, бренд-менеджмент, разработка и реализация интегрированной стратегии коммерческого блока, продвижение продуктов для руководителей с чеками от 35 тыс. до 3.3 млн. рублей на b2b и b2с рынках.
 
+-   :material-format-font:{ .lg .middle } __Результаты__
 
+    ---
 
-#4
+    Была разработана функциональная стратегия, где 30% отводилось
+    на проекты развития и экспериментальные для бизнеса рекламные
+    инструменты, не присущие большинству других игроков отрасли.
+    Заменена платформа сайтов и цифровой инструментарий, уточнен портфель продуктов, изменена ценовая политика. В связке с производственным отделом были разработаны новые продукты компании на основе изучения трендов рынка бизнес-образования.
 
-=== ":octicons-arrow-right-16: inline end"
+-   :material-scale-balance:{ .lg .middle } __Цифры__
 
-    !!! info inline end "Lorem ipsum"
+    ---
 
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-        purus auctor massa, nec semper lorem quam in massa.
+    Менее, чем за три года удалось
+    увеличить ROMI в три раза, компания
+    увеличила свой оборот в среднем на 24%, а восстановительный рост объема продаж после пандемии был в 2 раза быстрее, чем у всего рынка дополнительного образования в целом.
+    * Команда: до 10 человек
+    * Бюджет: до 14 млн.р / год
 
-    ``` markdown
-    !!! info inline end "Lorem ipsum"
-
-        Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit. Nulla et euismod nulla.
-        Curabitur feugiat, tortor non consequat
-        finibus, justo purus auctor massa, nec
-        semper lorem quam in massa.
-    ```
-
-    Use `inline end` to align to the right (left for rtl languages).
-
-=== ":octicons-arrow-left-16: inline"
-
-    !!! info inline "Lorem ipsum"
-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
-        euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-        purus auctor massa, nec semper lorem quam in massa.
-
-    ``` markdown
-    !!! info inline "Lorem ipsum"
-
-        Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit. Nulla et euismod nulla.
-        Curabitur feugiat, tortor non consequat
-        finibus, justo purus auctor massa, nec
-        semper lorem quam in massa.
-    ```
+</div>

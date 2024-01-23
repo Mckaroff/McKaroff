@@ -56,3 +56,7 @@ icon: fontawesome/solid/person-running
 ## Бизнесы, которым я благодарен за доверие
 
 ![[OBS proj.png]]
+
+
+
+#### [Опты работы](employment-history.md)
