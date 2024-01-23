@@ -1,6 +1,6 @@
 ---
 tags: Стратегия
-icon: material/code-json
+icon: fontawesome/solid/expand
 ---
 # Матрица Хосин Канри
 
