@@ -331,7 +331,9 @@ IMISP - один из лидеров российского бизнес-обр�
 #### [Telegram](https://t.me/Mackaroff)
 #### [Email](mailto:mackaroff@mackaroff.com)
 
-[Telegram :fontawesome-brands-telegram:](https://t.me/Mackaroff){ .md-button }
+[Telegram  :fontawesome-brands-telegram:](https://t.me/Mackaroff){ .md-button }
+[Email  :fontawesome-solid-envelope:](mailto:mackaroff@mackaroff.com){ .md-button }
+[facebook  :fontawesome-brands-facebook:](https://www.facebook.com/profile.php?id=100058073734932){ .md-button }
 ---
 ## Бизнесы, которым я благодарен за доверие:
 
