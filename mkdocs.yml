@@ -64,8 +64,9 @@ markdown_extensions:
 
 plugins:
   - roamlinks
+  - tags
     # - search
-  # - blog
+    # - blog
   - rss:
       match_path: blog/posts/.* 
       date_from_meta:
