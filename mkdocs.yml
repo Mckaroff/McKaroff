@@ -65,7 +65,8 @@ markdown_extensions:
 
 plugins:
   - roamlinks
-  - tags
+  - tags:
+      tags_file: Предметные области.md
     # - search
     # - blog
   - rss:
