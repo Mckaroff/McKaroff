@@ -65,8 +65,7 @@ markdown_extensions:
 
 plugins:
   - roamlinks
-  - tags:
-    - enabled: false
+  # - tags:
     # - search
     # - blog
   - rss:
