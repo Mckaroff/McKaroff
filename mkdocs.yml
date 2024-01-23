@@ -39,6 +39,7 @@ extra:
           link: mailto:mackaroff@mackaroff.com
 # Extensions
 markdown_extensions:
+  - admonition
   - footnotes
   # - attr_list
   - pymdownx.arithmatex:
