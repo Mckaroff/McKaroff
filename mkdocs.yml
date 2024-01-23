@@ -24,6 +24,7 @@ theme:
 
     logo: media/favicon.png
     favicon: media/favicon.png
+    language: en
 
 extra:
     generator: false
