@@ -65,7 +65,8 @@ markdown_extensions:
 
 plugins:
   - roamlinks
-  - tags
+  - tags:
+    - tags: false
     # - search
     # - blog
   - rss:
@@ -90,7 +91,8 @@ nav:
   - Home: index.md
   - Основы: 
     - Медиапланирование: basic tools/media-planning-basics.md
-  - Инструменты CMO: 
+  - Инструменты CMO:
+  - icon: fontawesome/brands/linkedin
     - Матрица Хосин Канри: CMO tools/hoshin-kanri-matrix.md
     - Оптимизация медиаплана: CMO tools/media-planning-optimization.md
   - Обо мне:
@@ -98,3 +100,4 @@ nav:
     - Опыт работы: about/employment-history.md
     - Проекты: about/projects.md
     - Принципы работы: about/work-principles.md
+    - icon: fontawesome/brands/linkedin
