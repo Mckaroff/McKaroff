@@ -3,7 +3,7 @@ site_name: Dmirty Mackaroff
 theme:
     name: 'material'
     palette:
-    
+
     # Light mode
     #- media: "(prefers-color-scheme: light)"
       #scheme: default
@@ -35,7 +35,7 @@ extra:
           link: https://www.facebook.com/profile.php?id=100058073734932
         - icon: fontawesome/brands/linkedin
           link: https://www.linkedin.com/in/dmitry-makarov-826176134?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxGKF6kUpRRu1Ljbi0JZlWQ%3D%3D
-        - icon: fontawesome/solid/envelope                 #media/envelope-solid.svg
+        - icon: fontawesome/solid/envelope
           link: mailto:mackaroff@mackaroff.com
 # Extensions
 markdown_extensions:
@@ -70,7 +70,7 @@ plugins:
     # - search
     # - blog
   - rss:
-      match_path: blog/posts/.* 
+      match_path: blog/posts/.*
       date_from_meta:
         as_creation: date
       categories:
@@ -82,17 +82,16 @@ extra_javascript:
   - javascripts/navicons.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/mermaid/dist/mermaid.min.js 
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css
 
 nav:
   - Home: index.md
-  - Основы: 
+  - Основы:
     - Медиапланирование: basic-tools/media-planning-basics.md
   - Инструменты CMO:
-  - icon: fontawesome/brands/linkedin
     - Матрица Хосин Канри: CMO-tools/hoshin-kanri-matrix.md
     - Оптимизация медиаплана: CMO-tools/media-planning-optimization.md
   - Обо мне:
@@ -100,4 +99,4 @@ nav:
     - Опыт работы: about/employment-history.md
     - Проекты: about/projects.md
     - Принципы работы: about/work-principles.md
-    - icon: fontawesome/brands/linkedin
+    
