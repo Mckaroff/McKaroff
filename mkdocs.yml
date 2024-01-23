@@ -24,7 +24,7 @@ theme:
 
     logo: media/favicon.png
     favicon: media/favicon.png
-    language: en
+    language: ru
 
 extra:
     generator: false
@@ -66,7 +66,7 @@ markdown_extensions:
 plugins:
   - roamlinks
   - tags:
-    - tags: false
+    - enabled: false
     # - search
     # - blog
   - rss:
@@ -99,4 +99,3 @@ nav:
     - Опыт работы: about/employment-history.md
     - Проекты: about/projects.md
     - Принципы работы: about/work-principles.md
-    
