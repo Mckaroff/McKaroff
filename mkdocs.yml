@@ -47,11 +47,11 @@ extra:
 markdown_extensions:
   - admonition
   - footnotes
+  - pymdownx.superfences
+  - pymdownx.details
   # - attr_list
   - pymdownx.arithmatex:
       generic: true
-  # - pymdownx.superfences
-  # - pymdownx.details
   # - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
