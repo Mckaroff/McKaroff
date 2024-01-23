@@ -85,7 +85,6 @@ Example: link to [[Mermaid Diagrams]] under `Features`
 ---
 #### Группа компаний «Игры Разума» - Директор по маркетингу (CMO)
 `2015 - 2017`
-!!! info "О компании"
 
 <div class="grid cards" markdown>
 
