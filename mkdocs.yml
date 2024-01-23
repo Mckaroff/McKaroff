@@ -1,4 +1,10 @@
 site_name: Dmirty Mackaroff
+site_author: Dmitry Mckaroff
+site_description: >-
+  Я помогаю маркетинговым командам развиваться и находить
+  новые способы решения коммерческих задач используя начные подходы
+  и технологические решения.
+copyright: Steal like an artist @ 2024
 
 theme:
     name: 'material'
