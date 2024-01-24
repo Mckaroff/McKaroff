@@ -33,6 +33,9 @@ theme:
     language: ru
     features:
     - content.tooltips
+    - navigation.next-prev
+    icon:
+      annotation: material/arrow-right-circle
 
 extra:
     generator: false
