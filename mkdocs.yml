@@ -34,6 +34,8 @@ theme:
     features:
     - content.tooltips
     - navigation.next-prev
+    - navigation.indexes
+    - navigation.footer
     icon:
       annotation: material/arrow-right-circle
 
@@ -111,6 +113,7 @@ nav:
     - Матрица Хосин Канри: CMO-tools/hoshin-kanri-matrix.md
     - Оптимизация медиаплана: CMO-tools/media-planning-optimization.md
   - Обо мне:
+    - about/CV.md
     - Обо мне: about/CV.md
     - Опыт работы: about/employment-history.md
     - Проекты: about/projects.md

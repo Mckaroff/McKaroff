@@ -1,5 +1,7 @@
 ---
-tags: Основы
+tags:
+  - Основы
+  - base
 icon: fontawesome/solid/map
 ---
 # Медиапланирование
