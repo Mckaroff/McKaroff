@@ -109,7 +109,7 @@ nav:
   - Home: index.md
   - Основы:
     - Медиапланирование: basic-tools/media-planning-basics.md
-    - Сегментация клиентов (RTB): Customer-Segmentation-(RTB).md
+    - Сегментация клиентов (RTB): basic-tools/Customer-Segmentation-(RTB).md
   - Инструменты CMO:
     - Матрица Хосин Канри: CMO-tools/hoshin-kanri-matrix.md
     - Оптимизация медиаплана: CMO-tools/media-planning-optimization.md
