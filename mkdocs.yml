@@ -109,11 +109,13 @@ nav:
   - Home: index.md
   - Основы:
     - Медиапланирование: basic-tools/media-planning-basics.md
+    - Сегментация клиентов (RTB): Customer Segmentation (RTB)
   - Инструменты CMO:
     - Матрица Хосин Канри: CMO-tools/hoshin-kanri-matrix.md
     - Оптимизация медиаплана: CMO-tools/media-planning-optimization.md
   - Обо мне:
-    - about/index.md
+    - about/CV.md
+    # - about/index.md
     # - Обо мне: about/CV.md
     - Опыт работы: about/employment-history.md
     - Проекты: about/projects.md
