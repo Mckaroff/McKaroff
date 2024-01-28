@@ -106,7 +106,8 @@ extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css
 
 nav:
-  - Home: index.md
+  #- Home: index.md
+  - Home: HQ/index.html
   - Основы:
     - Медиапланирование: basic-tools/media-planning-basics.md
     - Сегментация клиентов (RTB): basic-tools/Customer-Segmentation-(RTB).md
