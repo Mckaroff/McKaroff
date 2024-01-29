@@ -1,5 +1,4 @@
 ---
-
 icon: fontawesome/solid/expand
 ---
 # Матрица Хосин Канри

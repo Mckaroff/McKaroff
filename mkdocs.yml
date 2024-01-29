@@ -113,6 +113,7 @@ nav:
     - Сегментация клиентов (RTB): basic-tools/Customer-Segmentation-(RTB).md
   - Инструменты CMO:
     - Матрица Хосин Канри: CMO-tools/hoshin-kanri-matrix.md
+    - Семантический дифференциал: CMO-tools/semantic-differential.md
     - Оптимизация медиаплана: CMO-tools/media-planning-optimization.md
   - Обо мне:
     - about/index.md
