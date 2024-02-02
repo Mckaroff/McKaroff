@@ -64,4 +64,4 @@ icon: fontawesome/solid/wand-magic-sparkles
 
 #### [Проекты](projects.md)
 
-#### [Опты работы](employment-history.md)
+#### [Опыт работы](employment-history.md)
