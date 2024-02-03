@@ -22,7 +22,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
+      primary: blue
       accent: blue
       #toggle:
         #icon: material/toggle-switch
@@ -84,7 +84,8 @@ markdown_extensions:
 
 plugins:
   - roamlinks
-  - tags
+  - tags:
+      tags_file: tags.md
     # - search
     # - blog
   - rss:
@@ -107,7 +108,7 @@ extra_css:
 
 nav:
   #- Home: index.md
-  - Home: HQ/index.html
+  - Home: tags.md
   - Основы:
     - Медиапланирование: basic-tools/media-planning-basics.md
     - Сегментация клиентов (RTB): basic-tools/Customer-Segmentation-(RTB).md

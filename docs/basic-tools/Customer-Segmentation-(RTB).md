@@ -1,5 +1,7 @@
 ---
 icon: fontawesome/solid/puzzle-piece
+tags:
+  - Analytics
 ---
 # Сегментация клиентов (RTB)
 
