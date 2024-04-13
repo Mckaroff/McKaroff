@@ -88,7 +88,7 @@ plugins:
       #tags_file: tags.md
     # - search
     # - blog
-  - rss:
+  #- rss:
       match_path: blog/posts/.*
       date_from_meta:
         as_creation: date
