@@ -57,6 +57,6 @@ icon: fontawesome/solid/person-running
 
 ![[OBS proj.png]]
 
-
+#### [Принципы работы](work-principles.md)
 
 #### [Опты работы](employment-history.md)

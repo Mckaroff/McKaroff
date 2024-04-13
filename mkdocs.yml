@@ -84,8 +84,8 @@ markdown_extensions:
 
 plugins:
   - roamlinks
-  - tags:
-      tags_file: tags.md
+  #- tags:
+      #tags_file: tags.md
     # - search
     # - blog
   - rss:
@@ -108,13 +108,14 @@ extra_css:
 
 nav:
   #- Home: index.md
-  - Home: tags.md
+  - Home: about/CV.md
   - Основы:
     - Медиапланирование: basic-tools/media-planning-basics.md
     - Сегментация клиентов (RTB): basic-tools/Customer-Segmentation-(RTB).md
   - Инструменты CMO:
     - Матрица Хосин Канри: CMO-tools/hoshin-kanri-matrix.md
     - Семантический дифференциал: CMO-tools/semantic-differential.md
+    - Оптимизация времени напоминания: optimization-of reminders-for-periodic-services.md
     - Оптимизация медиаплана: CMO-tools/media-planning-optimization.md
   - Обо мне:
     - about/index.md
