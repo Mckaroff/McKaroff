@@ -115,7 +115,7 @@ nav:
   - Инструменты CMO:
     - Матрица Хосин Канри: CMO-tools/hoshin-kanri-matrix.md
     - Семантический дифференциал: CMO-tools/semantic-differential.md
-    - Оптимизация времени напоминания: optimization-of reminders-for-periodic-services.md
+    - Оптимизация времени напоминания: CMO-tools/optimization-of reminders-for-periodic-services.md
     - Оптимизация медиаплана: CMO-tools/media-planning-optimization.md
   - Обо мне:
     - about/index.md
