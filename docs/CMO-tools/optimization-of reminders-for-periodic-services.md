@@ -1,5 +1,5 @@
 ---
-icon: fontawesome-solid-clock-rotate-left
+icon: fontawesome/solid/clock-rotate-left
 ---
 # Оптимизация времени напоминаний
 
