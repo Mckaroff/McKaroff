@@ -58,13 +58,13 @@ icon: fontawesome/solid/arrows-left-right
 
 ![[DIFF - 5.png]]
 
-1. [Ссылка и преднастроенная визуализация](https://www.datawrapper.de/_/v3WYC/) в сервисе Datawrapper после регистрации вам будет доступна опция `duplicate`, останется только заменить данные в окне `upload data` на свои.
+1. [Ссылка и преднастроенная визуализация](https://app.datawrapper.de/river/_/v3WYC) в сервисе Datawrapper после регистрации вам будет доступна опция `reuse this chart`, останется только заменить данные в окне `upload data` на свои.
 
 ![[DIFF - 6.png]]
 
 ##### [Шаблон в google таблицах](https://docs.google.com/spreadsheets/d/1-CnRAqOAXeUqFNfuFe2veaxJ8LmUFXp72IXR5aZKxKg/edit?usp=sharing)
 
-#####  [Пример визуализации](https://www.datawrapper.de/_/v3WYC/)
+#####  [Пример визуализации](https://app.datawrapper.de/river/_/v3WYC)
 
 
 
