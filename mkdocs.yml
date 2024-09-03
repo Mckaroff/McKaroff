@@ -10,7 +10,9 @@ copyright: Steal like an artist @ 2024
 theme:
   name: 'material'
   extra_javascript:
-  - 'javascript/extra.js'
+  - 'javascript/1h.js'
+  - 'javascript/2h-work.js'
+  - 'javascript/20min.js'
   palette:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
