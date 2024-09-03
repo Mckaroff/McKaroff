@@ -9,6 +9,7 @@ copyright: Steal like an artist @ 2024
 
 theme:
   name: 'material'
+  custom_dir: custom_theme/about/employment-history.html
   palette:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
