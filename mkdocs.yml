@@ -95,7 +95,6 @@ extra_css:
 nav:
   - Основное: about/index.md
   - Обо мне:
-    - about/index.md
     - Опыт работы: about/employment-history.md
     - Проекты: about/projects.md
     - Принципы работы: about/work-principles.md
