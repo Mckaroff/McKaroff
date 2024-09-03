@@ -1,10 +1,10 @@
 document.addEventListener("DOMContentLoaded", function() {
     // Определение иконок для разделов
     var navItems = {
-        "Home": "fas fa-home",
-        "Основы": "fas fa-book",
-        "Инструменты CMO": "fas fa-tools",
-        "Обо мне": "fas fa-user"
+        //"Home": "fas fa-home",
+        //"Основы": "fas fa-book",
+        //"Инструменты CMO": "fas fa-tools",
+        //"Обо мне": "fas fa-user"
     };
 
     // Добавление иконок к разделам
