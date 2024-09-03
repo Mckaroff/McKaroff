@@ -3,6 +3,25 @@ icon: fontawesome/solid/wand-magic-sparkles
 ---
 # Увидимся - поговорим
 
+
+
+
+<a href="#" class="md-button2" data-cal-link="mackaroff/1h" data-cal-namespace="1h" data-cal-config='{"layout":"month_view"}' style="margin-right: 10px; margin-bottom: 10px;">
+    1 час - поговорить - Google Meet
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
 [20 минут - посоветоваться - Телефон / TG](#){
   .md-button2
   style="margin-right: 10px; margin-bottom: 10px;"
