@@ -9,7 +9,6 @@ copyright: Steal like an artist @ 2024
 
 theme:
   name: 'material'
-  custom_dir: 'overrides'
   extra_javascript:
   - 'javascript/extra.js'
   palette:
