@@ -84,7 +84,8 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js
   - javascripts/1h.js
-
+  - javascripts/1h-work.js
+  - javascripts/20min.js
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css
   - extra.css
