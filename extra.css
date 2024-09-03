@@ -1,0 +1,18 @@
+.md-button2 {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #007bff; /* Цвет текста и рамки */
+    background-color: transparent; /* Прозрачный фон */
+    border: 2px solid #007bff; /* Рамка того же цвета */
+    border-radius: 0; /* Острые углы */
+    text-decoration: none;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.md-button2:hover {
+    background-color: #007bff;
+    color: white; /* Белый текст при наведении */
+}
