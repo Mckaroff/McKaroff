@@ -9,7 +9,9 @@ copyright: Steal like an artist @ 2024
 
 theme:
   name: 'material'
-  custom_dir: cal
+  custom_dir: 'overrides'
+  extra_javascript:
+  - 'javascript/extra.js'
   palette:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
