@@ -4,7 +4,7 @@ icon: fontawesome/solid/wand-magic-sparkles
 # Увидимся - поговорим
 
 
-  {% extends "base.html" %}
+
 
 
     <script type="text/javascript">
@@ -21,9 +21,7 @@ icon: fontawesome/solid/wand-magic-sparkles
       </script>
 
 
-  {% endblock %}
 
-  {{ super() }}
 
 
 
