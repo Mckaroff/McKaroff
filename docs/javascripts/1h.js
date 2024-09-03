@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Hello from extra.js!');
+    console.log('Hello from 1h.js!');
 
     // Cal element-click embed code begins
     (function (C, A, L) {

@@ -15,16 +15,16 @@ icon: fontawesome/solid/wand-magic-sparkles
 
 [1 час - поговорить - Google Meet](#){
   .md-button
-  style="margin-right: 10px; margin-bottom: 10px;"
   data-cal-link="mackaroff/1h"
   data-cal-namespace="1h"
   data-cal-config='{"layout":"month_view"}'
+  style="margin-right: 10px; margin-bottom: 10px;"
 }
 
-[2 часf - поработать вместе - лично или онлайн](#){
+[2 часа - поработать вместе - лично или онлайн](#){
   .md-button
   style="margin-right: 10px; margin-bottom: 500px;"
-  data-cal-link="mackaroff/1h"
+  data-cal-link="mackaroff/2h-work"
   data-cal-namespace="1h"
   data-cal-config='{"layout":"month_view"}'
 }
