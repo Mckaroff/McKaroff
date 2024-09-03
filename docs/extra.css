@@ -2,17 +2,17 @@
     display: inline-block;
     padding: 10px 20px;
     font-size: 16px;
-    color: white; /* Цвет текста */
-    background-color: #007bff; /* Фон кнопки */
-    border: none;
-    border-radius: 5px;
+    color: #007bff; /* Цвет текста и рамки */
+    background-color: transparent; /* Прозрачный фон */
+    border: 2px solid #007bff; /* Рамка того же цвета */
+    border-radius: 0; /* Острые углы */
     text-decoration: none;
     cursor: pointer;
     margin-right: 10px;
     margin-bottom: 30px;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); /* Тень текста */
-    font-weight: bold; /* Полужирный текст */
+    text-align: center;
 }
 .md-button2:hover {
-    background-color: #0056b3; /* Цвет фона при наведении */
+    background-color: #007bff;
+    color: white; /* Белый текст при наведении */
 }
